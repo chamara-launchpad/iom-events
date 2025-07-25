@@ -1,0 +1,1 @@
+# Script to run all scrapers and push to Supabase
